@@ -1,3 +1,4 @@
+"use client"
 import QuestionsList from "../questions-list";
 import PollsList from "../polls-list";
 import { getQuestionsPage } from "@/lib/questions";
